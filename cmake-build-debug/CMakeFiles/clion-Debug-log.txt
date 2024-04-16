@@ -1,0 +1,4 @@
+"C:\Program Files\JetBrains\CLion 2023.3\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 2023.3/bin/ninja/win/x64/ninja.exe" -G Ninja -S "C:\Users\houss\Desktop\1_COMP 318_Algorithms\W11\Final_COMP318_Proj2" -B "C:\Users\houss\Desktop\1_COMP 318_Algorithms\W11\Final_COMP318_Proj2\cmake-build-debug"
+-- Configuring done (0.2s)
+-- Generating done (0.0s)
+-- Build files have been written to: C:/Users/houss/Desktop/1_COMP 318_Algorithms/W11/Final_COMP318_Proj2/cmake-build-debug
